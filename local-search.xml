@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>笔记本电脑上OBS显示屏采集黑屏解决方法</title>
+    <link href="/2021/04/10/%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E4%B8%8AOBS%E6%98%BE%E7%A4%BA%E5%B1%8F%E9%87%87%E9%9B%86%E9%BB%91%E5%B1%8F%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    <url>/2021/04/10/%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E4%B8%8AOBS%E6%98%BE%E7%A4%BA%E5%B1%8F%E9%87%87%E9%9B%86%E9%BB%91%E5%B1%8F%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</url>
+    
+    <content type="html"><![CDATA[<!-- toc --><h1>笔记本电脑上OBS显示屏采集黑屏解决方法</h1><h2><p class="note note-warning" style = "font-size:22px">    由兼容性问题导致的</p></h2><p>不管是不是由于 <span class="label label-warning">兼容性问题</span> 导致的此问题，都建议用 <span class="label label-warning">兼容模式</span> 运行OBS</p><p>依次打开<span class="label label-warning">OBS图标右键>属性>兼容性</span></br></p><img src="https://i.loli.net/2021/04/10/4MQSxKyu6ImWYAw.png#" style="zoom:80%;" /><h2><p class="note note-info" style = "font-size:22px">显卡问题导致的</p></h2><p>桌面右键&gt;显示设置&gt;下拉找到：图形设置&gt;浏览&gt;选择obsx64.exe&gt;添加</br></p><img src="https://i.loli.net/2021/04/10/UbT3xRhIA2fg54j.png"  style="zoom:51%;" /></br></br><p>选项&gt;节能(节能GPU显示的应该和高性能GPU不一样)&gt;保存就完成了</p><img src="https://i.loli.net/2021/04/10/erhU2BxwqnlsOzg.png" style="zoom:51%;" />]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>OBS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
